@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "936F8+pgJ+g=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\OcpExe.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\nstack.core\\1.1.1\\nstack.core.1.1.1.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\terminal.gui\\1.17.1\\terminal.gui.1.17.1.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.windows.sdk.net.ref\\10.0.17763.34\\microsoft.windows.sdk.net.ref.10.0.17763.34.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.8\\microsoft.aspnetcore.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.8\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.8.nupkg.sha512",
+    "C:\\Users\\HenrikMolsgaard\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.8\\microsoft.netcore.app.runtime.win-x64.8.0.8.nupkg.sha512"
+  ],
+  "logs": []
+}

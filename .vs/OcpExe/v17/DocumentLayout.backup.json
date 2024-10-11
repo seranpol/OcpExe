@@ -1,0 +1,484 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\obj\\debug\\net9.0\\generated\\playground.sourcegenerator\\playground.sourcegenerator.hierarchicalinjector\\playground.view.mainview.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\obj\\debug\\net9.0\\generated\\playground.sourcegenerator\\playground.sourcegenerator.hierarchicalinjector\\playground.view.mainview.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\view\\level_1_a\\maintabview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\view\\level_1_a\\maintabview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\bootstrap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\69784db1f49ca7051a844a5dbb93a2a906b636716199dc7e19d887f4224af5a4\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\obj\\debug\\net9.0\\generated\\playground.sourcegenerator\\playground.sourcegenerator.hierarchicalinjector\\playground.view.level_1_a.maintabview.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\obj\\debug\\net9.0\\generated\\playground.sourcegenerator\\playground.sourcegenerator.hierarchicalinjector\\playground.view.level_1_a.maintabview.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground.sourcegenerator\\hierarchicalinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|solutionrelative:playground.sourcegenerator\\hierarchicalinjector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD3D0247-B228-40DF-BA2A-698105496F52}|PlayGround\\PlayGround.csproj|solutionrelative:playground\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\aa665b6425e556ef3b9039882ff2cb861e1e331a945ac152b73bbdf641b93cd8\\AnalyzerExecutor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\8c4df5a002982d1061da58296c260df413171954412a866f9655c381b7600921\\AnalyzerManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground.sourcegenerator\\playground.sourcegenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|solutionrelative:playground.sourcegenerator\\playground.sourcegenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\playground.sourcegenerator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C8B18740-E525-4CAB-B6E3-73EEE0C8F23D}|PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj|solutionrelative:playground.sourcegenerator\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\testgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\testgui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\view\\tabs\\network\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\view\\tabs\\network\\network.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\ocpexe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\ocpexe.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\logic\\commandexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\logic\\commandexecuter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\cdbaa2262cc14a79a517dbbbc4642e9311c9075c4ff6ba79d272752ddac9ae17\\Activator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\view\\tabs\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\view\\tabs\\storage\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\ocpexe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\ocpexe.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\3f0edecae33d12d0cfe1ae2ae5b315a4baa27b78f8f9db9d5fd5bf81e0cf4d4f\\Terminal.Gui\\Core\\Application.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\infrastructure\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\infrastructure\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\view\\mainview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\view\\tabs\\maintabitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\view\\tabs\\maintabitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\bootstrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|c:\\users\\henrikmolsgaard\\source\\repos\\ocpexe\\ocpexe\\misc.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{9467602F-023F-4E23-B0A3-4800788E58F6}|OcpExe\\OcpExe.csproj|solutionrelative:ocpexe\\misc.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayGround.View.MainView.g.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.MainView.g.cs",
+              "RelativeDocumentMoniker": "PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.MainView.g.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.MainView.g.cs",
+              "RelativeToolTip": "PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.MainView.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:49:38.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ServiceProviderServiceExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\69784db1f49ca7051a844a5dbb93a2a906b636716199dc7e19d887f4224af5a4\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\69784db1f49ca7051a844a5dbb93a2a906b636716199dc7e19d887f4224af5a4\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\69784db1f49ca7051a844a5dbb93a2a906b636716199dc7e19d887f4224af5a4\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\69784db1f49ca7051a844a5dbb93a2a906b636716199dc7e19d887f4224af5a4\\src\\libraries\\Microsoft.Extensions.DependencyInjection.Abstractions\\src\\ServiceProviderServiceExtensions.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAApwC8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:46:45.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainTabView.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\View\\Level_1_A\\MainTabView.cs",
+              "RelativeDocumentMoniker": "PlayGround\\View\\Level_1_A\\MainTabView.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\View\\Level_1_A\\MainTabView.cs",
+              "RelativeToolTip": "PlayGround\\View\\Level_1_A\\MainTabView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:39:23.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\View\\MainView.cs",
+              "RelativeDocumentMoniker": "PlayGround\\View\\MainView.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\View\\MainView.cs",
+              "RelativeToolTip": "PlayGround\\View\\MainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:39:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayGround.View.Level_1_A.MainTabView.g.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.Level_1_A.MainTabView.g.cs",
+              "RelativeDocumentMoniker": "PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.Level_1_A.MainTabView.g.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.Level_1_A.MainTabView.g.cs",
+              "RelativeToolTip": "PlayGround\\obj\\Debug\\net9.0\\generated\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.HierarchicalInjector\\PlayGround.View.Level_1_A.MainTabView.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:35:21.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bootstrap.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\Bootstrap.cs",
+              "RelativeDocumentMoniker": "PlayGround\\Bootstrap.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\Bootstrap.cs",
+              "RelativeToolTip": "PlayGround\\Bootstrap.cs",
+              "ViewState": "AgIAAAYAAADgzMzMzMwjwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:26:49.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PlayGround.SourceGenerator\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PlayGround.SourceGenerator\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-04T12:07:53.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TestGui.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\TestGui.cs",
+              "RelativeDocumentMoniker": "OcpExe\\TestGui.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\TestGui.cs",
+              "RelativeToolTip": "OcpExe\\TestGui.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAnwDUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T11:37:07.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\Program.cs",
+              "RelativeDocumentMoniker": "PlayGround\\Program.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround\\Program.cs",
+              "RelativeToolTip": "PlayGround\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:16:13.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HierarchicalInjector.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\HierarchicalInjector.cs",
+              "RelativeDocumentMoniker": "PlayGround.SourceGenerator\\HierarchicalInjector.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\HierarchicalInjector.cs",
+              "RelativeToolTip": "PlayGround.SourceGenerator\\HierarchicalInjector.cs",
+              "ViewState": "AgIAADIAAAAANTMzMzMLwD0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T09:18:36.595Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AnalyzerExecutor.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\aa665b6425e556ef3b9039882ff2cb861e1e331a945ac152b73bbdf641b93cd8\\AnalyzerExecutor.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aa665b6425e556ef3b9039882ff2cb861e1e331a945ac152b73bbdf641b93cd8\\AnalyzerExecutor.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\aa665b6425e556ef3b9039882ff2cb861e1e331a945ac152b73bbdf641b93cd8\\AnalyzerExecutor.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\aa665b6425e556ef3b9039882ff2cb861e1e331a945ac152b73bbdf641b93cd8\\AnalyzerExecutor.cs [Read Only]",
+              "ViewState": "AgIAALgCAAAAAAAAAAApwMYCAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:34:24.677Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AnalyzerManager.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\8c4df5a002982d1061da58296c260df413171954412a866f9655c381b7600921\\AnalyzerManager.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8c4df5a002982d1061da58296c260df413171954412a866f9655c381b7600921\\AnalyzerManager.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\8c4df5a002982d1061da58296c260df413171954412a866f9655c381b7600921\\AnalyzerManager.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\8c4df5a002982d1061da58296c260df413171954412a866f9655c381b7600921\\AnalyzerManager.cs [Read Only]",
+              "ViewState": "AgIAAJEBAAAAAAAAAAApwJUBAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:33:25.745Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PlayGround.SourceGenerator.csproj",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj",
+              "RelativeDocumentMoniker": "PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj",
+              "RelativeToolTip": "PlayGround.SourceGenerator\\PlayGround.SourceGenerator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-04T12:34:04.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\Storage\\Storage.cs",
+              "RelativeDocumentMoniker": "OcpExe\\View\\Tabs\\Storage\\Storage.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\Storage\\Storage.cs",
+              "RelativeToolTip": "OcpExe\\View\\Tabs\\Storage\\Storage.cs",
+              "ViewState": "AgIAAAcAAAAAZmZmZmYUwB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:55:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Infrastructure\\Register.cs",
+              "RelativeDocumentMoniker": "OcpExe\\Infrastructure\\Register.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Infrastructure\\Register.cs",
+              "RelativeToolTip": "OcpExe\\Infrastructure\\Register.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAewBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:02:55.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "OcpExe",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\OcpExe.csproj",
+              "RelativeDocumentMoniker": "OcpExe\\OcpExe.csproj",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\OcpExe.csproj",
+              "RelativeToolTip": "OcpExe\\OcpExe.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-11T14:38:47.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "misc.txt",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\misc.txt",
+              "RelativeDocumentMoniker": "OcpExe\\misc.txt",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\misc.txt",
+              "RelativeToolTip": "OcpExe\\misc.txt",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-11T07:07:38.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Program.cs",
+              "RelativeDocumentMoniker": "OcpExe\\Program.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Program.cs",
+              "RelativeToolTip": "OcpExe\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-10T14:33:52.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Application.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\3f0edecae33d12d0cfe1ae2ae5b315a4baa27b78f8f9db9d5fd5bf81e0cf4d4f\\Terminal.Gui\\Core\\Application.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\SourceServer\\3f0edecae33d12d0cfe1ae2ae5b315a4baa27b78f8f9db9d5fd5bf81e0cf4d4f\\Terminal.Gui\\Core\\Application.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\SourceServer\\3f0edecae33d12d0cfe1ae2ae5b315a4baa27b78f8f9db9d5fd5bf81e0cf4d4f\\Terminal.Gui\\Core\\Application.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\SourceServer\\3f0edecae33d12d0cfe1ae2ae5b315a4baa27b78f8f9db9d5fd5bf81e0cf4d4f\\Terminal.Gui\\Core\\Application.cs",
+              "ViewState": "AgIAAK8BAAAAAAAAAAASwL8BAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T13:59:13.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MainView.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\MainView.cs",
+              "RelativeDocumentMoniker": "OcpExe\\View\\MainView.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\MainView.cs",
+              "RelativeToolTip": "OcpExe\\View\\MainView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T16:33:53.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Activator.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\cdbaa2262cc14a79a517dbbbc4642e9311c9075c4ff6ba79d272752ddac9ae17\\Activator.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cdbaa2262cc14a79a517dbbbc4642e9311c9075c4ff6ba79d272752ddac9ae17\\Activator.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\AppData\\Local\\Temp\\.vsdbgsrc\\cdbaa2262cc14a79a517dbbbc4642e9311c9075c4ff6ba79d272752ddac9ae17\\Activator.cs",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\cdbaa2262cc14a79a517dbbbc4642e9311c9075c4ff6ba79d272752ddac9ae17\\Activator.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAgwJcAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T06:33:25.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CommandExecuter.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Logic\\CommandExecuter.cs",
+              "RelativeDocumentMoniker": "OcpExe\\Logic\\CommandExecuter.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\Logic\\CommandExecuter.cs",
+              "RelativeToolTip": "OcpExe\\Logic\\CommandExecuter.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAvwBYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:59:02.204Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BootStrapper.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\BootStrapper.cs",
+              "RelativeDocumentMoniker": "OcpExe\\BootStrapper.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\BootStrapper.cs",
+              "RelativeToolTip": "OcpExe\\BootStrapper.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-14T17:06:06.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OcpExe.csproj",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\OcpExe.csproj",
+              "RelativeDocumentMoniker": "OcpExe\\OcpExe.csproj",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\OcpExe.csproj",
+              "RelativeToolTip": "OcpExe\\OcpExe.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-10T14:37:40.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Network.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\Network\\Network.cs",
+              "RelativeDocumentMoniker": "OcpExe\\View\\Tabs\\Network\\Network.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\Network\\Network.cs",
+              "RelativeToolTip": "OcpExe\\View\\Tabs\\Network\\Network.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:27:30.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MainTabItem.cs",
+              "DocumentMoniker": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\MainTabItem.cs",
+              "RelativeDocumentMoniker": "OcpExe\\View\\Tabs\\MainTabItem.cs",
+              "ToolTip": "C:\\Users\\HenrikMolsgaard\\source\\repos\\OcpExe\\OcpExe\\View\\Tabs\\MainTabItem.cs",
+              "RelativeToolTip": "OcpExe\\View\\Tabs\\MainTabItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T15:23:40.192Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Genhdi": {
+      "commandName": "DebugRoslynComponent",
+      "targetProject": "..\\PlayGround\\PlayGround.csproj"
+    }
+  }
+}

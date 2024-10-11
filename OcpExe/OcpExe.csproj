@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>Exe</OutputType>
+		<TargetFramework>net8.0-windows10.0.17763.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<!--<PublishSingleFile>true</PublishSingleFile>-->
+		<!--<PublishTrimmed>true</PublishTrimmed>-->
+		<!--<TrimMode>partial</TrimMode>-->
+		<!--<TrimmerRootAssembly>OcpExe</TrimmerRootAssembly>-->
+		<SelfContained>true</SelfContained>
+		<!--<RuntimeIdentifier>linux-x64</RuntimeIdentifier>-->
+		<LangVersion>preview</LangVersion>
+		<RuntimeIdentifier>win-x64</RuntimeIdentifier>
+		<InvariantGlobalization>true</InvariantGlobalization>
+	</PropertyGroup>
+
+	<ItemGroup>
+		<PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="8.0.0" />
+		<PackageReference Include="Terminal.Gui" Version="1.17.1" />
+	</ItemGroup>
+
+</Project>

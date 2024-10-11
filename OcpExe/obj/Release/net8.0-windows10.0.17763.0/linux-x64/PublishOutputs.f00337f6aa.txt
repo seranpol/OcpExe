@@ -1,0 +1,2 @@
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\OcpExe\bin\Release\net8.0\linux-x64\publish\OcpExe.pdb
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\OcpExe\bin\Release\net8.0\linux-x64\publish\OcpExe

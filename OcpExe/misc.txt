@@ -1,0 +1,47 @@
+﻿using System;
+using System.Diagnostics;
+
+namespace MyApp
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            // Command to be executed
+            string command = "oc get pods -A";
+
+            // Create a new process to run the command
+            ProcessStartInfo processStartInfo = new ProcessStartInfo
+            {
+                FileName = "/bin/bash",
+                Arguments = $"-c \"{command}\"",
+                RedirectStandardOutput = true,
+                RedirectStandardError = true,
+                UseShellExecute = false,
+                CreateNoWindow = true
+            };
+
+            using (Process process = new Process())
+            {
+                process.StartInfo = processStartInfo;
+                process.Start();
+
+                // Read the output and error streams
+                string output = process.StandardOutput.ReadToEnd();
+                string error = process.StandardError.ReadToEnd();
+
+                process.WaitForExit();
+
+                // Output the results
+                Console.WriteLine("Output:");
+                Console.WriteLine(output);
+
+                if (!string.IsNullOrEmpty(error))
+                {
+                    Console.WriteLine("Error:");
+                    Console.WriteLine(error);
+                }
+            }
+        }
+    }
+}

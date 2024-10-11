@@ -1,0 +1,10 @@
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\bin\Debug\netstandard2.0\PlayGround.SourceGenerator.deps.json
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\bin\Debug\netstandard2.0\PlayGround.SourceGenerator.dll
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\bin\Debug\netstandard2.0\PlayGround.SourceGenerator.pdb
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.csproj.AssemblyReference.cache
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.AssemblyInfoInputs.cache
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.AssemblyInfo.cs
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.csproj.CoreCompileInputs.cache
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.dll
+C:\Users\HenrikMolsgaard\source\repos\OcpExe\PlayGround.SourceGenerator\obj\Debug\netstandard2.0\PlayGround.SourceGenerator.pdb
